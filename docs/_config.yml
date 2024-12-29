@@ -23,14 +23,15 @@ email: alyraluca@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Simplifica la creación de horarios y aumenta la productividad. Gestiona a la 
   perfección los turnos y los recursos y disfruta de una nueva coordinación eficiente entre tus empleados.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Gestion_Turnos/" # the subpath of your site, e.g. /blog
+url: "https://alyraluca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alyraluca
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minima
+remote_theme: chrisrhymes/bulma-clean-theme
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
