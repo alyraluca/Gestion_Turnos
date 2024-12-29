@@ -8,27 +8,28 @@ title: Gestión de Turnos
 ### DESCRIPCIÓN
 Simplifica la creación de horarios y aumenta la productividad. Gestiona a la perfección los turnos y los recursos y disfruta de una nueva coordinación eficiente entre tus empleados.
 
-### DESCRIPCIÓN DETALLADA
+### **FUNCIONALIDADES DESTACADAS**
 
-1. PLANIFICACIÓN:
-	- Añadir empleados y asignarle un rol de trabajo.
-    - Podremos crear nuevos turnos y asignarlos a nuestros empleados y enviárselos al correo, además de poder publicarlo en el calendario para que lo vea toda la plantilla. 
-	- Además, podrán dejar horas / turnos abiertos en el calendario de la empresa que se podrían dar por bajas o vacaciones. Así mismo, los empleados que quieran hacer más horas podrán apuntarse y solicitarlos al administrador.
+#### **📅 Planificación Inteligente**
+- **Gestión de empleados:** Añade empleados y asigna roles de trabajo con facilidad.  
+- **Creación de turnos:** Diseña turnos personalizados y compártelos por correo o publícalos directamente en el calendario del equipo.  
+- **Turnos abiertos:** Deja espacios libres para cubrir bajas o vacaciones, y permite que los empleados interesados soliciten horas adicionales.  
 
-2. MI HORARIO:
-	- Aquí el empleado podrá ver su horario y turnos asignados. Además, podrá pedir días libres para asuntos propios, días por enfermedad o vacaciones. A su vez el administrador podrá aceptar la solicitud o denegarla.
-	- Hay una posibilidad de que los empleados se puedan intercambiar algunos turnos de trabajo entre ellos a modo de favor o emergencia que a priori sería muy precipitado pasar por la aprobación de un administrador.
-	- También podrán apuntarse para hacer más horas en los huecos que se podrían dar en los turnos.
-	- Tendrán una lista con todos sus días libres disponibles, ya sea para asuntos propios o vacaciones. También habrá otra con todos los días libres ya tomados a lo largo del año.
-	- Además, los empleados podrán dejar por escrito su disponibilidad en caso de emergencia o cambio de turnos, eso sería muy práctico para los empleados a media jornada que quieran más horas. Ellos podrían pedir ser avisados si hay algún hueco disponible.
+#### **🕒 Mi Horario Personalizado**
+- **Vista individual:** Consulta horarios asignados y realiza solicitudes de días libres por asuntos propios, enfermedad o vacaciones.  
+- **Intercambio flexible:** Los empleados pueden intercambiar turnos entre sí, perfecto para emergencias o imprevistos.  
+- **Disponibilidad extra:** Deja tu disponibilidad escrita para cubrir turnos abiertos y ser notificado si surge una oportunidad.  
 
-3. INFORMES
-	- El módulo también nos facilita el seguimiento de las horas trabajadas por cada empleado y podrá generar informes para la gestión de nóminas y cumplimiento laboral.
-	- Así mismo, el módulo podrá alertar al supervisor sobre posibles conflictos o ausencias o simplemente, cada vez que haya un cambio.
-	- Teniendo en cuenta los turnos asignados todas las semanas, nos genera automáticamente los turnos del mes siguiente. El gerente lo podrá revisar y dar el visto bueno antes de publicarlo.
-	- El sistema podrá predecir la demanda teniendo en cuenta los días de la semana, los días festivos o las horas del día, y asignar automáticamente más personal cuando sea necesario para lidiar con la oleada de clientela. 
-    - Otra cosa que podrá hacer el sistema es avisar automáticamente, al empleado que ha rellenado su disponibilidad, de un hueco en los turnos, y este podrá aceptar la solicitud o denegarla.
+#### **📈 Informes Automatizados**
+- **Seguimiento de horas:** Obtén reportes detallados sobre las horas trabajadas de cada empleado.  
+- **Detección de conflictos:** Recibe alertas sobre ausencias, cambios de última hora o conflictos de turnos.  
+- **Predicción inteligente:** El sistema optimiza la planificación del próximo mes basado en datos como demanda diaria y días festivos.  
 
+---
+### **¿Qué hace único a este sistema?**
+1. **Optimización automática:** Genera turnos del mes siguiente con sugerencias basadas en historial.  
+2. **Notificaciones inmediatas:** Los empleados disponibles reciben alertas en tiempo real sobre huecos en los turnos.  
+3. **Análisis avanzado:** Mejora la asignación de recursos con predicciones basadas en la demanda laboral.
 
 ### MAPA
 
