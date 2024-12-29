@@ -1,0 +1,60 @@
+<odoo>
+  <data>
+    <!-- explicit list view definition -->
+<!--
+    <record model="ir.ui.view" id="gestion__turnos.list">
+      <field name="name">Gestion_Turnos list</field>
+      <field name="model">gestion__turnos.gestion__turnos</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="value"/>
+          <field name="value2"/>
+        </tree>
+      </field>
+    </record>
+-->
+
+    <!-- actions opening views on models -->
+<!--
+    <record model="ir.actions.act_window" id="gestion__turnos.action_window">
+      <field name="name">Gestion_Turnos window</field>
+      <field name="res_model">gestion__turnos.gestion__turnos</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+-->
+
+    <!-- server action to the one above -->
+<!--
+    <record model="ir.actions.server" id="gestion__turnos.action_server">
+      <field name="name">Gestion_Turnos server</field>
+      <field name="model_id" ref="model_gestion__turnos_gestion__turnos"/>
+      <field name="state">code</field>
+      <field name="code">
+        action = {
+          "type": "ir.actions.act_window",
+          "view_mode": "tree,form",
+          "res_model": model._name,
+        }
+      </field>
+    </record>
+-->
+
+    <!-- Top menu item -->
+<!--
+    <menuitem name="Gestion_Turnos" id="gestion__turnos.menu_root"/>
+-->
+    <!-- menu categories -->
+<!--
+    <menuitem name="Menu 1" id="gestion__turnos.menu_1" parent="gestion__turnos.menu_root"/>
+    <menuitem name="Menu 2" id="gestion__turnos.menu_2" parent="gestion__turnos.menu_root"/>
+-->
+    <!-- actions -->
+<!--
+    <menuitem name="List" id="gestion__turnos.menu_1_list" parent="gestion__turnos.menu_1"
+              action="gestion__turnos.action_window"/>
+    <menuitem name="Server to list" id="gestion__turnos" parent="gestion__turnos.menu_2"
+              action="gestion__turnos.action_server"/>
+-->
+  </data>
+</odoo>
