@@ -43,7 +43,7 @@ El módulo se divide en dos secciones principales: **'Planificación'** y **'Mi 
 Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empleados. A través de ella, pueden consultar su horario personal, ver los huecos disponibles en los turnos de trabajo y solicitar cubrir alguno de estos huecos si lo desean. Además, los empleados tienen la posibilidad de solicitar días libres por motivos personales, enfermedad o vacaciones. Esta sección facilita la organización de los turnos y mejora la coordinación entre todos los miembros del equipo.
 
 <div style="text-align: center; margin: 20px;">
-  <img src="img/mapa__module1.jpg" alt="Mapa" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+  <img src="img/mapa__module1.jpg" alt="Mapa" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 </div>
 
 ---
