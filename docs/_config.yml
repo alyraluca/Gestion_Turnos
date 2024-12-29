@@ -23,7 +23,7 @@ email: alyraluca@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Simplifica la creación de horarios y aumenta la productividad. Gestiona a la 
   perfección los turnos y los recursos y disfruta de una nueva coordinación eficiente entre tus empleados.
-baseurl: "/Gestion_Turnos/" # the subpath of your site, e.g. /blog
+baseurl: "/Gestion_Turnos" # the subpath of your site, e.g. /blog
 url: "https://alyraluca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alyraluca
 
