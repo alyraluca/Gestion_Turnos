@@ -6,7 +6,7 @@ layout: page
 title: Gestión de Turnos
 ---
 <h1>
-  <img src="img/icono.webp" alt="Icono de Gestión de Turnos" style="vertical-align: middle; width: 40px; height: 40px; margin-right: 10px;">
+  <img src="img/logo2.png" alt="Icono de Gestión de Turnos" style="vertical-align: middle; width: 40px; height: 40px; margin-right: 10px;">
   Gestión de Turnos
 </h1>
 
