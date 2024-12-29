@@ -48,7 +48,7 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 
 ---
 
-### WIREFRAMES
+### WIREFRAMES ![Wireframe Icon](https://img.icons8.com/ios/50/000000/wireframe.png)
 
 #### Wireframe 01
 
