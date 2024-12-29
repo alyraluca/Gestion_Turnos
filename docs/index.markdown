@@ -6,6 +6,7 @@ layout: page
 title: Gestión Turnos
 subtitle: Optimiza la creación de horarios, mejora la gestión de turnos y recursos, y facilita la coordinación entre empleados.
 hero_image: img/banner.jpg 
+hero_darken: true
 ---
 <h1>
   <img src="img/logo2.png" alt="Icono de Gestión de Turnos" style="vertical-align: middle; width: 40px; height: 40px; margin-right: 10px;">
