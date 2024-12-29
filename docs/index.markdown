@@ -51,6 +51,7 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 ### WIREFRAMES
 
 #### Wireframe 01
+
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px; text-align: justify;">
     El wireframe del tab **'Planificación'** en la sección de **'Empleados'** está diseñado específicamente para los gerentes. Este **mockup** ilustra cómo se verá la página. En él, se presenta un calendario que muestra todos los horarios, permitiendo visualizar los turnos por empleado individualmente o superpuestos, para una visión general de todos los horarios. Desde esta página, también será posible generar informes detallados sobre las horas trabajadas por cada empleado, facilitando la gestión y el seguimiento de la planificación laboral.
@@ -61,10 +62,14 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 </div>
 
 #### Wireframe 02
-El wireframe del tab **'Planificación'** en la sección de **'Empleados'** incluye la función **'Añadir Empleado'**. Este **mockup** muestra cómo se vería la página emergente que permite registrar un nuevo empleado. En ella, se solicitan diversos datos para dar de alta al empleado, tales como su nombre, dirección y cuenta bancaria, entre otros, asegurando que toda la información necesaria esté disponible para completar el proceso de registro.
 
-<div style="text-align: center; margin: 20px;">
-  <img src="img/wireframe_planeacion_empleado2.jpg" alt="Wireframe añadir empleado" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+  <div style="flex: 0 0 55%; text-align: center;">
+    <img src="img/wireframe_planeacion_empleado2.jpg" alt="Wireframe añadir empleado" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+  </div>
+  <div style="flex: 1; margin-left: 20px; text-align: justify;">
+    El wireframe del tab **'Planificación'** en la sección de **'Empleados'** incluye la función **'Añadir Empleado'**. Este **mockup** muestra cómo se vería la página emergente que permite registrar un nuevo empleado. En ella, se solicitan diversos datos para dar de alta al empleado, tales como su nombre, dirección y cuenta bancaria, entre otros, asegurando que toda la información necesaria esté disponible para completar el proceso de registro.
+  </div>
 </div>
 
 #### Wireframe 03
