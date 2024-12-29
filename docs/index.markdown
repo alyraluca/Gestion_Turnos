@@ -3,15 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Gestión de Turnos
+title: Gestión Turnos
+subtitle: Optimiza la creación de horarios, mejora la gestión de turnos y recursos, y facilita la coordinación entre empleados.
+hero_image: img/banner.jpg 
 ---
 <h1>
   <img src="img/logo2.png" alt="Icono de Gestión de Turnos" style="vertical-align: middle; width: 40px; height: 40px; margin-right: 10px;">
   Gestión de Turnos
 </h1>
-
-### DESCRIPCIÓN
-Simplifica la creación de horarios y aumenta la productividad. Gestiona a la perfección los turnos y los recursos y disfruta de una nueva coordinación eficiente entre tus empleados.
 
 ### **FUNCIONALIDADES DESTACADAS**
 
