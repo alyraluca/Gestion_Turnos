@@ -38,7 +38,7 @@ Simplifica la creación de horarios y aumenta la productividad. Gestiona a la pe
 
 ### MAPA
 
-![mapa__module1](img/mapa__module1.jpg)
+<img src="img/mapa__module1.jpg" alt="Mapa" style="width: 50%; height: auto;">
 
 
 ### WIREFRAME
