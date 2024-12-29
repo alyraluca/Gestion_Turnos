@@ -8,10 +8,6 @@ subtitle: Optimiza la creación de horarios, mejora la gestión de turnos y recu
 hero_image: img/banner3.jpg 
 hero_darken: true
 ---
-<h1>
-  <img src="img/logo2.png" alt="Icono de Gestión de Turnos" style="vertical-align: middle; width: 40px; height: 40px; margin-right: 10px;">
-  Gestión de Turnos
-</h1>
 
 ### **FUNCIONALIDADES DESTACADAS**
 
