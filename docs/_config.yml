@@ -30,7 +30,7 @@ github_username:  alyraluca
 # Build settings
 #theme: minima
 
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 #plugins:
 #  - jekyll-feed
 
