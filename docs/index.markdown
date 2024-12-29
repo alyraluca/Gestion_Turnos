@@ -37,7 +37,7 @@ hero_darken: true
 
 ---
 
-### MAPA CONCEPTUAL
+### 🗺️ MAPA CONCEPTUAL
 El módulo se divide en dos secciones principales: **'Planificación'** y **'Mi Horario'**. La sección de **'Planificación'** está destinada únicamente a los gerentes, quienes tienen la capacidad de gestionar empleados, asignar roles y crear turnos de trabajo, ya sea de manera manual o automática. Si se elige la opción automática, el sistema sugiere turnos basándose en los datos de los meses anteriores. Los gerentes también pueden aprobar los turnos automáticos o guardar los manuales y enviarlos a los empleados correspondientes. Además, podrán aceptar las solicitudes de días libres.
 
 Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empleados. A través de ella, pueden consultar su horario personal, ver los huecos disponibles en los turnos de trabajo y solicitar cubrir alguno de estos huecos si lo desean. Además, los empleados tienen la posibilidad de solicitar días libres por motivos personales, enfermedad o vacaciones. Esta sección facilita la organización de los turnos y mejora la coordinación entre todos los miembros del equipo.
