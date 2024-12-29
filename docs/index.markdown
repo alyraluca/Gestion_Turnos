@@ -46,23 +46,35 @@ Simplifica la creación de horarios y aumenta la productividad. Gestiona a la pe
 
 Wireframe del TAB de ‘Planificación’ de la sección de ‘Empleados’.
 
-![wireframe_planeacion_empleado1](img/wireframe_planeacion_empleado1.jpg)
+<div style="text-align: center; margin: 20px;">
+  <img src="img/wireframe_planeacion_empleado1.jpg" alt="Wireframe planificación" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+</div>
+
 
 Wireframe del TAB de ‘Planificación’ de la sección de ‘Empleados’ y la función ‘Añadir Empleado’.
 
-![wireframe_planeacion_empleado2](img/wireframe_planeacion_empleado2.jpg)
+<div style="text-align: center; margin: 20px;">
+  <img src="img/wireframe_planeacion_empleado2.jpg" alt="Wireframe añadir empleado" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+</div>
+
 
 Wireframe del TAB de ‘Planificación’ de la sección de ‘Turnos’.
 
-![wireframe_planeacion_puesto1](img/wireframe_planeacion_puesto1.jpg)
+<div style="text-align: center; margin: 20px;">
+  <img src="img/wireframe_planeacion_puesto1.jpg" alt="Wireframe planificación" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+</div>
 
 Wireframe del TAB de ‘Planificación’ de la sección de ‘Turnos’ y la función ‘Crear turno’.
 
-![wireframe_planeacion_puesto2](img/wireframe_planeacion_puesto2.jpg)
+<div style="text-align: center; margin: 20px;">
+  <img src="img/wireframe_planeacion_puesto2.jpg" alt="Wireframe crear turno" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+</div>
 
 Wireframe del TAB de ‘Mi Horario’.
 
-![wireframe_miHorario](img/wireframe_miHorario.jpg)
+<div style="text-align: center; margin: 20px;">
+  <img src="img/wireframe_miHorario.jpg" alt="Wireframe mi horario" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+</div>
 
 
 ### CONTROL DE ACCESO
@@ -80,9 +92,13 @@ Wireframe del TAB de ‘Mi Horario’.
 
 Diagrama de flujo del TAB de ‘Planificación’ y ‘Mi Horario’.
 
-![flowchart_planeacion](img/flowchart_planeacion.jpg)
+<div style="text-align: center; margin: 20px;">
+  <img src="img/flowchart_planeacion.jpg" alt="Flowchart planificación" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+</div>
 
 
 ### ESQUEMA RELACIONAL DE LAS NUEVAS TABLAS
 
-![data_base_module1](img/data_base_module1.jpg)
+<div style="text-align: center; margin: 20px;">
+  <img src="img/data_base_module1.jpg" alt="Esquema de la base de datos" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+</div>
