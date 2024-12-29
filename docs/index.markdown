@@ -12,6 +12,8 @@ hero_darken: true
 ### **FUNCIONALIDADES DESTACADAS**
 ---
 
+---
+
 #### **📅 Planificación Inteligente**
 - **Gestión de empleados:** Añade empleados y asigna roles de trabajo con facilidad.  
 - **Creación de turnos:** Diseña turnos personalizados y compártelos por correo o publícalos directamente en el calendario del equipo.  
@@ -32,7 +34,7 @@ hero_darken: true
 1. **Optimización automática:** Genera turnos del mes siguiente con sugerencias basadas en historial.  
 2. **Notificaciones inmediatas:** Los empleados reciben alertas en tiempo real sobre huecos en los turnos.  
 3. **Análisis avanzado:** Mejora la asignación de recursos con predicciones basadas en la demanda laboral.
-
+---
 ### MAPA CONCEPTUAL
 El módulo se divide en dos secciones principales: **'Planificación'** y **'Mi Horario'**. La sección de **'Planificación'** está destinada únicamente a los gerentes, quienes tienen la capacidad de gestionar empleados, asignar roles y crear turnos de trabajo, ya sea de manera manual o automática. Si se elige la opción automática, el sistema sugiere turnos basándose en los datos de los meses anteriores. Los gerentes también pueden aprobar los turnos automáticos o guardar los manuales y enviarlos a los empleados correspondientes.
 
