@@ -46,34 +46,37 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
   <img src="img/mapa__module1.jpg" alt="Mapa" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 </div>
 
-### WIREFRAME
+### WIREFRAMES
 
+#### Wireframe 01
 El wireframe del tab **'Planificación'** en la sección de **'Empleados'** está diseñado específicamente para los gerentes. Este **mockup** ilustra cómo se verá la página. En él, se presenta un calendario que muestra todos los horarios, permitiendo visualizar los turnos por empleado individualmente o superpuestos, para una visión general de todos los horarios. Desde esta página, también será posible generar informes detallados sobre las horas trabajadas por cada empleado, facilitando la gestión y el seguimiento de la planificación laboral.
 
 <div style="text-align: center; margin: 20px;">
   <img src="img/wireframe_planeacion_empleado1.jpg" alt="Wireframe planificación" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 </div>
 
-
-Wireframe del TAB de ‘Planificación’ de la sección de ‘Empleados’ y la función ‘Añadir Empleado’.
+#### Wireframe 02
+El wireframe del tab **'Planificación'** en la sección de **'Empleados'** incluye la función **'Añadir Empleado'**. Este **mockup** muestra cómo se vería la página emergente que permite registrar un nuevo empleado. En ella, se solicitan diversos datos para dar de alta al empleado, tales como su nombre, dirección y cuenta bancaria, entre otros, asegurando que toda la información necesaria esté disponible para completar el proceso de registro.
 
 <div style="text-align: center; margin: 20px;">
   <img src="img/wireframe_planeacion_empleado2.jpg" alt="Wireframe añadir empleado" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 </div>
 
-
+#### Wireframe 03
 Wireframe del TAB de ‘Planificación’ de la sección de ‘Turnos’.
 
 <div style="text-align: center; margin: 20px;">
   <img src="img/wireframe_planeacion_puesto1.jpg" alt="Wireframe planificación" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 </div>
 
+#### Wireframe 04
 Wireframe del TAB de ‘Planificación’ de la sección de ‘Turnos’ y la función ‘Crear turno’.
 
 <div style="text-align: center; margin: 20px;">
   <img src="img/wireframe_planeacion_puesto2.jpg" alt="Wireframe crear turno" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 </div>
 
+#### Wireframe 05
 Wireframe del TAB de ‘Mi Horario’.
 
 <div style="text-align: center; margin: 20px;">
