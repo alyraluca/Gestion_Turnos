@@ -5,6 +5,11 @@
 layout: page
 title: Gestión de Turnos
 ---
+<h1>
+  <img src="img/icono.webp" alt="Icono de Gestión de Turnos" style="vertical-align: middle; width: 40px; height: 40px; margin-right: 10px;">
+  Gestión de Turnos
+</h1>
+
 ### DESCRIPCIÓN
 Simplifica la creación de horarios y aumenta la productividad. Gestiona a la perfección los turnos y los recursos y disfruta de una nueva coordinación eficiente entre tus empleados.
 
