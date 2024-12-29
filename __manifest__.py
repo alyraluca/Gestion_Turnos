@@ -2,18 +2,16 @@
 {
     'name': "Gestion_Turnos",
 
-    'summary': "Simplifica la creacion de horarios.""
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+    'summary': """
+        Simplifica la creación de horarios y aumenta la productividad.""",
 
-    'description': "Simplifica la creación de horarios y aumenta la productividad. Gestiona a la perfección los turnos y los recursos y disfruta de una nueva coordinación eficiente entre tus empleados.""
-        Long description of module's purpose
-    "El módulo también nos facilita el seguimiento de las horas trabajadas por cada empleado y podrá generar informes para la gestión de nóminas y cumplimiento laboral.
+    'description': """
+        El módulo también nos facilita el seguimiento de las horas trabajadas por cada empleado y podrá generar informes para la gestión de nóminas y cumplimiento laboral.
 	Así mismo, el módulo podrá alertar al supervisor sobre posibles conflictos o ausencias o simplemente, cada vez que haya un cambio.
 	Teniendo en cuenta los turnos asignados todas las semanas, nos genera automáticamente los turnos del mes siguiente. El gerente lo podrá revisar y dar el visto bueno antes de publicarlo.
 	El sistema podrá predecir la demanda teniendo en cuenta los días de la semana, los días festivos o las horas del día, y asignar automáticamente más personal cuando sea necesario para lidiar con la oleada de clientela. 
 Otra cosa que podrá hacer el sistema es avisar automáticamente, al empleado que ha rellenado su disponibilidad, de un hueco en los turnos, y este podrá aceptar la solicitud o denegarla.
-"",
+""",
     'author': "Alexandra Raluca, Savu",
     'website': "https://github.com/alyraluca/Gestion_Turnos.git",
 
