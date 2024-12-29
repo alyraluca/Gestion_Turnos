@@ -10,6 +10,7 @@ hero_darken: true
 ---
 
 ### **FUNCIONALIDADES DESTACADAS**
+---
 
 #### **📅 Planificación Inteligente**
 - **Gestión de empleados:** Añade empleados y asigna roles de trabajo con facilidad.  
@@ -29,10 +30,13 @@ hero_darken: true
 ---
 ### **¿Qué hace único a este sistema?**
 1. **Optimización automática:** Genera turnos del mes siguiente con sugerencias basadas en historial.  
-2. **Notificaciones inmediatas:** Los empleados disponibles reciben alertas en tiempo real sobre huecos en los turnos.  
+2. **Notificaciones inmediatas:** Los empleados reciben alertas en tiempo real sobre huecos en los turnos.  
 3. **Análisis avanzado:** Mejora la asignación de recursos con predicciones basadas en la demanda laboral.
 
-### MAPA
+### MAPA CONCEPTUAL
+El módulo se divide en dos secciones principales: **'Planificación'** y **'Mi Horario'**. La sección de **'Planificación'** está destinada únicamente a los gerentes, quienes tienen la capacidad de gestionar empleados, asignar roles y crear turnos de trabajo, ya sea de manera manual o automática. Si se elige la opción automática, el sistema sugiere turnos basándose en los datos de los meses anteriores. Los gerentes también pueden aprobar los turnos automáticos o guardar los manuales y enviarlos a los empleados correspondientes.
+
+Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empleados. A través de ella, pueden consultar su horario personal, ver los huecos disponibles en los turnos de trabajo y solicitar cubrir alguno de estos huecos si lo desean. Además, los empleados tienen la posibilidad de solicitar días libres por motivos personales, enfermedad o vacaciones. Esta sección facilita la organización de los turnos y mejora la coordinación entre todos los miembros del equipo.
 
 <div style="text-align: center; margin: 20px;">
   <img src="img/mapa__module1.jpg" alt="Mapa" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
