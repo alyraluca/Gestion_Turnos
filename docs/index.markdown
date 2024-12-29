@@ -4,7 +4,7 @@
 
 layout: page
 title: Gestión Turnos
-subtitle: Optimiza la creación de horarios, mejora la gestión de turnos y recursos
+subtitle: Optimiza la creación de horarios y mejora la gestión de turnos
 hero_image: img/banner3.jpg 
 hero_darken: true
 ---
