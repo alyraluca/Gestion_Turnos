@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Gestion Turnos
 permalink: /about/
 ---
 
