@@ -73,7 +73,7 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 </div>
 
 #### Wireframe 03
-Wireframe del TAB de ‘Planificación’ de la sección de ‘Turnos’.
+Wireframe del TAB de ‘Planificación’ de la sección de ‘Turnos’..
 
 <div style="text-align: center; margin: 20px;">
   <img src="img/wireframe_planeacion_puesto1.jpg" alt="Wireframe planificación" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
