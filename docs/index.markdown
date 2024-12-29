@@ -48,7 +48,7 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 
 ### WIREFRAME
 
-Wireframe del TAB de ‘Planificación’ de la sección de ‘Empleados’.
+El wireframe del tab **'Planificación'** en la sección de **'Empleados'** está diseñado específicamente para los gerentes. Este **mockup** ilustra cómo se verá la página. En él, se presenta un calendario que muestra todos los horarios, permitiendo visualizar los turnos por empleado individualmente o superpuestos, para una visión general de todos los horarios. Desde esta página, también será posible generar informes detallados sobre las horas trabajadas por cada empleado, facilitando la gestión y el seguimiento de la planificación laboral.
 
 <div style="text-align: center; margin: 20px;">
   <img src="img/wireframe_planeacion_empleado1.jpg" alt="Wireframe planificación" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
