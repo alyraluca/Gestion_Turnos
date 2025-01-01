@@ -114,7 +114,7 @@ Diagrama de flujo de las distintas partes del módulo. Este diagrama muestra las
 </div>
 
 
-### 🧩 ESQUEMA RELACIONAL DE LAS NUEVAS TABLAS
+### <img src="image.png" alt="alt text" width="30" height="30"> ESQUEMA RELACIONAL DE LAS NUEVAS TABLAS
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px; text-align: justify;">
@@ -126,8 +126,7 @@ Diagrama de flujo de las distintas partes del módulo. Este diagrama muestra las
 </div>
 
 
-
-### 🔒 <img src="image-1.png" alt="alt text" width="30" height="30"> CONTROL DE ACCESO
+### 🔒 CONTROL DE ACCESO
 
 **Grupos de usuarios:**  
 1. **Administradores**  
