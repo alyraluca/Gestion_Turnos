@@ -9,7 +9,7 @@ hero_image: img/banner3.jpg
 hero_darken: true
 ---
 
-### **FUNCIONALIDADES DESTACADAS**
+### 🌟 **FUNCIONALIDADES DESTACADAS**
 ---
 
 ---
@@ -105,6 +105,23 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 </div>
 
 
+### 🔄 DIAGRAMAS DE FLUJO
+
+Diagrama de flujo de las distintas partes del módulo. Este diagrama muestra las diversas funcionalidades del módulo, comenzando con la sección de **Planificación**, donde se incluyen acciones como: agregar empleados, crear turnos (ya sea manualmente o de forma automática), y generar informes. En la sección de **Mi Horario**, se representa el flujo de funcionalidades relacionadas, tales como: solicitar días libres, aprobar o rechazar solicitudes, y recibir dichas peticiones.
+
+<div style="text-align: center; margin: 20px;">
+  <img src="img/flowchart_planeacion.jpg" alt="Flowchart planificación" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+</div>
+
+
+### 🧩 ESQUEMA RELACIONAL DE LAS NUEVAS TABLAS
+
+En este esquema relacional se muestra cómo se vinculan las nuevas **tablas** de la **base de datos** del módulo. Se puede observar que existen cinco tablas que interactúan entre sí según las acciones realizadas dentro del módulo, reflejando cómo los datos se conectan y se actualizan en función de las interacciones del usuario.
+
+<div style="text-align: center; margin: 20px;">
+  <img src="img/data_base_module1.jpg" alt="Esquema de la base de datos" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+</div>
+
 
 ### 🔒 CONTROL DE ACCESO
 
@@ -125,19 +142,3 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
   - **‘Mi Horario’**: acceso de **lectura y escritura**, lo que les permite consultar su horario, solicitar días libres o ampliar su horario de trabajo, pero sin poder modificar directamente los turnos asignados.  
   - **‘Planificación’**: acceso de **lectura** únicamente, permitiéndoles visualizar los turnos sin capacidad para editarlos.
 
-
-
-### DIAGRAMAS DE FLUJO
-
-Diagrama de flujo del TAB de ‘Planificación’ y ‘Mi Horario’.
-
-<div style="text-align: center; margin: 20px;">
-  <img src="img/flowchart_planeacion.jpg" alt="Flowchart planificación" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
-</div>
-
-
-### ESQUEMA RELACIONAL DE LAS NUEVAS TABLAS
-
-<div style="text-align: center; margin: 20px;">
-  <img src="img/data_base_module1.jpg" alt="Esquema de la base de datos" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
-</div>
