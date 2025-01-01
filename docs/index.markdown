@@ -127,7 +127,7 @@ Diagrama de flujo de las distintas partes del módulo. Este diagrama muestra las
 
 
 
-### 🔒 CONTROL DE ACCESO ![alt text](image-1.png)
+### 🔒 <img src="image-1.png" alt="alt text" width="30" height="30"> CONTROL DE ACCESO
 
 **Grupos de usuarios:**  
 1. **Administradores**  
