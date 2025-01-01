@@ -9,7 +9,7 @@ hero_image: img/banner3.jpg
 hero_darken: true
 ---
 
-### 🌟 **FUNCIONALIDADES DESTACADAS**
+### **FUNCIONALIDADES DESTACADAS**
 
 
 #### **📅 Planificación Inteligente**
