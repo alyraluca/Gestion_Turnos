@@ -10,9 +10,7 @@ hero_darken: true
 ---
 
 ### 🌟 **FUNCIONALIDADES DESTACADAS**
----
 
----
 
 #### **📅 Planificación Inteligente**
 - **Gestión de empleados:** Añade empleados y asigna roles de trabajo con facilidad.  
