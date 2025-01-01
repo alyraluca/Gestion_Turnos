@@ -73,11 +73,15 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 </div>
 
 #### Wireframe 03
-Wireframe del TAB de ‘Planificación’ de la sección de ‘Turnos’..
-
-<div style="text-align: center; margin: 20px;">
-  <img src="img/wireframe_planeacion_puesto1.jpg" alt="Wireframe planificación" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+  <div style="flex: 1; margin-right: 20px; text-align: justify;">
+      El wireframe del tab <strong>'Planificación'</strong> en la sección de <strong>'Turnos'</strong> está diseñada para el uso del gerente, quien podrá visualizar los turnos organizados de forma estructurada, como en un calendario, diferenciados por tipos. Desde esta pestaña, el gerente también tendrá la posibilidad de crear nuevos turnos fácilmente. Además, podrá gestionar solicitudes de días u horas libres, revisarlas y aprobarlas de manera eficiente.
+  </div>
+  <div style="flex: 0 0 55%; text-align: center;">
+    <img src="img/wireframe_planeacion_puesto1.jpg" alt="Wireframe planificación" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+  </div>
 </div>
+
 
 #### Wireframe 04
 Wireframe del TAB de ‘Planificación’ de la sección de ‘Turnos’ y la función ‘Crear turno’.
