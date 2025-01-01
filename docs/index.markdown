@@ -116,14 +116,18 @@ Diagrama de flujo de las distintas partes del módulo. Este diagrama muestra las
 
 ### 🧩 ESQUEMA RELACIONAL DE LAS NUEVAS TABLAS
 
-En este esquema relacional se muestra cómo se vinculan las nuevas **tablas** de la **base de datos** del módulo. Se puede observar que existen cinco tablas que interactúan entre sí según las acciones realizadas dentro del módulo, reflejando cómo los datos se conectan y se actualizan en función de las interacciones del usuario.
-
-<div style="text-align: center; margin: 20px;">
-  <img src="img/data_base_module1.jpg" alt="Esquema de la base de datos" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+  <div style="flex: 1; margin-right: 20px; text-align: justify;">
+      En este esquema relacional se muestra cómo se vinculan las nuevas tablas de la base de datos del módulo. Se puede observar que existen cinco tablas que interactúan entre sí según las acciones realizadas dentro del módulo, reflejando cómo los datos se conectan y se actualizan en función de las interacciones del usuario.
+  </div>
+  <div style="flex: 0 0 55%; text-align: center;">
+    <img src="img/data_base_module1.jpg" alt="Esquema de la base de datos" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+  </div>
 </div>
 
 
-### 🔒 CONTROL DE ACCESO
+
+### 🔒 CONTROL DE ACCESO ![alt text](image-1.png)
 
 **Grupos de usuarios:**  
 1. **Administradores**  
