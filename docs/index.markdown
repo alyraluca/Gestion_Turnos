@@ -84,18 +84,26 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 
 
 #### Wireframe 04
-Wireframe del TAB de ‘Planificación’ de la sección de ‘Turnos’ y la función ‘Crear turno’.
-
-<div style="text-align: center; margin: 20px;">
-  <img src="img/wireframe_planeacion_puesto2.jpg" alt="Wireframe crear turno" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+  <div style="flex: 1; margin-right: 20px; text-align: justify;">
+      El wireframe del tab <strong>'Planificación'</strong> en la sección de <strong>'Turnos'</strong> incluye la funcionalidad <strong>'Crear turno'</strong>, que muestra cómo se pueden configurar nuevos turnos de manera sencilla y eficiente. Desde esta vista, es posible asignar el turno a un trabajador, definir la hora de inicio y finalización, así como vincularlo a un puesto de trabajo específico. Además, la interfaz permite guardar el turno, publicarlo y enviarlo al trabajador correspondiente, optimizando la comunicación y la gestión de horarios laborales.
+  </div>
+  <div style="flex: 0 0 55%; text-align: center;">
+    <img src="img/wireframe_planeacion_puesto2.jpg" alt="Wireframe crear turno" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+  </div>
 </div>
+
 
 #### Wireframe 05
-Wireframe del TAB de ‘Mi Horario’.
-
-<div style="text-align: center; margin: 20px;">
-  <img src="img/wireframe_miHorario.jpg" alt="Wireframe mi horario" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+  <div style="flex: 1; margin-right: 20px; text-align: justify;">
+      El wireframe del tab <strong>'Mi Horario'</strong> está diseñado para ofrecer a los empleados una visión clara y organizada de sus turnos. En esta sección, el empleado puede visualizar su horario en un calendario interactivo, gestionar su disponibilidad para posibles ampliaciones de horas de trabajo, y configurar sus preferencias de alertas. Además, esta pestaña permite realizar solicitudes de días libres o revisar aquellas que ya han sido aprobadas, facilitando así la gestión personal de su tiempo laboral.
+  </div>
+  <div style="flex: 0 0 55%; text-align: center;">
+    <img src="img/wireframe_miHorario.jpg" alt="Wireframe mi horario" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+  </div>
 </div>
+
 
 
 ### CONTROL DE ACCESO
