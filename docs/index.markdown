@@ -102,6 +102,7 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
   </div>
 </div>
 
+---
 
 ### 🔄 DIAGRAMAS DE FLUJO
 
@@ -111,6 +112,7 @@ Diagrama de flujo de las distintas partes del módulo. Este diagrama muestra las
   <img src="img/flowchart_planeacion.jpg" alt="Flowchart planificación" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 </div>
 
+--- 
 
 ### <img src="img/image.png" alt="alt text" width="25" height="25"> ESQUEMA RELACIONAL DE LAS NUEVAS TABLAS
 
@@ -123,6 +125,7 @@ Diagrama de flujo de las distintas partes del módulo. Este diagrama muestra las
   </div>
 </div>
 
+--- 
 
 ### 🔒 CONTROL DE ACCESO
 
