@@ -106,15 +106,25 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 
 
 
-### CONTROL DE ACCESO
+### 🔒 CONTROL DE ACCESO
 
-1. Grupos: administradores, empleados.
-2. Acceso al módulo: todos los usuarios.
-3. Administradores: acceso a ‘Planificación’, ‘Mi Horario’ 
-	- Permiso de lectura y escritura a todos los módulos.
-4. Empleados: acceso a ‘Mi Horario’, ‘Planificación’.
-	- ‘Mi Horario’: acceso de lectura.
-	- ‘Planificación’: acceso de lectura.
+**Grupos de usuarios:**  
+1. **Administradores**  
+2. **Empleados**  
+
+**Acceso al módulo:**  
+- **Todos los usuarios** tienen acceso al módulo en general.
+
+**Accesos y permisos por grupo:**  
+- **Administradores**  
+  - Acceso completo a los módulos **‘Planificación’** y **‘Mi Horario’**.  
+  - Permiso de **lectura y escritura** en todos los módulos, lo que les permite modificar y gestionar los datos de todos los registros.
+
+- **Empleados**  
+  - Acceso limitado a los módulos **‘Mi Horario’** y **‘Planificación’**.  
+  - **‘Mi Horario’**: acceso de **lectura y escritura**, lo que les permite consultar su horario, solicitar días libres o ampliar su horario de trabajo, pero sin poder modificar directamente los turnos asignados.  
+  - **‘Planificación’**: acceso de **lectura** únicamente, permitiéndoles visualizar los turnos sin capacidad para editarlos.
+
 
 
 ### DIAGRAMAS DE FLUJO
