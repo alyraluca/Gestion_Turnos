@@ -66,7 +66,7 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
     El wireframe del tab <strong>'Planificación'</strong> en la sección de <strong>'Empleados'</strong> incluye la función <strong>'Añadir Empleado'</strong>. Este <strong>mockup</strong> muestra cómo se vería la página emergente que permite registrar un nuevo empleado. En ella, se solicitan diversos datos para dar de alta al empleado, tales como su nombre, dirección y cuenta bancaria, entre otros, asegurando que toda la información necesaria esté disponible para completar el proceso de registro.
   </div>
   <div style="flex: 0 0 55%; text-align: center;">
-    <img src="img/_crearwireframe_plan_turnos.png" alt="Wireframe añadir empleado" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+    <img src="img/crearwireframe_plan_turnos.png" alt="Wireframe añadir empleado" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
   </div>
 </div>
 
