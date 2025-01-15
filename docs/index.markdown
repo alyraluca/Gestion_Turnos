@@ -159,13 +159,12 @@ Por otro lado, el flujo de la pestaña **'Mi Horario'** muestra cómo se conecta
 
 **Accesos y permisos por grupo:**  
 - **Administradores**  
-  - Acceso completo a los módulos **‘Planificación’** y **‘Mi Horario’**.  
+  - Acceso completo a los módulos **‘Planificación’**, **‘Mi Horario’** e **‘Informes’**.  
   - Permiso de **lectura y escritura** en todos los módulos, lo que les permite modificar y gestionar los datos de todos los registros.
 
 - **Empleados**  
-  - Acceso limitado a los módulos **‘Mi Horario’** y **‘Planificación’**.  
+  - Acceso limitado a los módulos de **‘Mi Horario’**.  
   - **‘Mi Horario’**: acceso de **lectura y escritura**, lo que les permite consultar su horario, solicitar días libres o ampliar su horario de trabajo, pero sin poder modificar directamente los turnos asignados.  
-  - **‘Planificación’**: acceso de **lectura** únicamente, permitiéndoles visualizar los turnos sin capacidad para editarlos.
 
 ---
 
