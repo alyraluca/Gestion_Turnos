@@ -13,32 +13,35 @@ hero_darken: true
 
 
 #### **📅 Planificación Inteligente**
-- **Gestión de empleados:** Añade empleados y asigna roles de trabajo con facilidad.  
-- **Creación de turnos:** Diseña turnos personalizados y compártelos por correo o publícalos directamente en el calendario del equipo.  
-- **Turnos abiertos:** Deja espacios libres para cubrir bajas o vacaciones, y permite que los empleados interesados soliciten horas adicionales.  
+- **Gestión de turnos y puestos:** Crea turnos personalizados, asigna empleados a puestos de trabajo y añade colores para facilitar su identificación en el calendario.
+- **Copia de turnos anteriores:** Optimiza la planificación copiando los turnos de semanas previas, ahorrando tiempo y esfuerzo.  
+- **Gestíon de solicitudes:** Los gerentes pueden aceptar o rechazar solicitudes de días libres, asegurando una planificación efectiva según las necesidades del equipo.  
+- **Turnos abiertos:** Crea turnos disponibles para cubrir bajas o picos de demanda, y permite que los empleados los acepten directamente desde su interfaz.
 
 #### **🕒 Mi Horario Personalizado**
-- **Vista individual:** Consulta horarios asignados y realiza solicitudes de días libres por asuntos propios, enfermedad o vacaciones.  
-- **Intercambio flexible:** Los empleados pueden intercambiar turnos entre sí, perfecto para emergencias o imprevistos.  
-- **Disponibilidad extra:** Deja tu disponibilidad escrita para cubrir turnos abiertos y ser notificado si surge una oportunidad.  
+- **Calendario interactivo:** Consulta horarios asignados con vistas diaria, semanal o mensual, y solicita días libres (con visualización de días disponibles restantes). 
+- **Gestión de turnos abiertos:** Los empleados pueden visualizar y aceptar turnos abiertos, adaptando su planificación personal a las necesidades de la empresa.
+- **Seguimiento de solicitudes:** Envía y gestiona solicitudes de días libres por motivos personales, enfermedad o vacaciones, con seguimiento de su estado (pendiente, aceptada o rechazada). 
 
 #### **📈 Informes Automatizados**
-- **Seguimiento de horas:** Obtén reportes detallados sobre las horas trabajadas de cada empleado.  
-- **Detección de conflictos:** Recibe alertas sobre ausencias, cambios de última hora o conflictos de turnos.  
-- **Predicción inteligente:** El sistema optimiza la planificación del próximo mes basado en datos como demanda diaria y días festivos.  
+- **Generación de informes detallados:** Obtén reportes sobre horas trabajadas, días laborados y costes asociados, organizados por empleado, semana o mes. 
+- **Nominas:** Genera informes exportables para facilitar la elaboración de las nóminas de los empleados. 
+- **Control y análisis:** Detecta posibles conflictos, como ausencias o solapamientos de turnos, y optimiza futuras planificaciones en base a datos históricos y patrones de demanda.  
 
 ---
 ### **¿Qué hace único a este sistema?**
-1. **Optimización automática:** Genera turnos del mes siguiente con sugerencias basadas en historial.  
-2. **Notificaciones inmediatas:** Los empleados reciben alertas en tiempo real sobre huecos en los turnos.  
-3. **Análisis avanzado:** Mejora la asignación de recursos con predicciones basadas en la demanda laboral.
+1. **Optimización automática:** La opción de copiar turnos y generar planificaciones basadas en datos históricos ahorra tiempo y mejora la eficiencia.
+2. **Conexión integral:** El sistema conecta la planificación de los gerentes con el horario personal de los empleados, mejorando la coordinación. 
+3. **Notificaciones:** Los empleados reciben alertas instantáneas sobre solicitudes de días libres, turnos abiertos o cambios en su horario.
 
 ---
 
 ### 🗺️ MAPA MÓDULO
-El módulo se divide en dos secciones principales: **'Planificación'** y **'Mi Horario'**. La sección de **'Planificación'** está destinada únicamente a los gerentes, quienes tienen la capacidad de gestionar empleados, asignar roles y crear turnos de trabajo, ya sea de manera manual o automática. Si se elige la opción automática, el sistema sugiere turnos basándose en los datos de los meses anteriores. Los gerentes también pueden aprobar los turnos automáticos o guardar los manuales y enviarlos a los empleados correspondientes. Además, podrán aceptar las solicitudes de días libres.
+El módulo se divide en tres secciones principales: **'Planificación'**, **'Mi Horario'** e **'Informes'**. La sección de **'Planificación'** está destinada exclusivamente a los gerentes. En ella, tienen la capacidad de crear turnos o puestos de trabajo y aceptar las **solicitudes** de días libres de los empleados bajo su supervisión (según el organigrama empresarial, cada empleado tiene asignado un mentor o administrador responsable de manejar dichas solicitudes). Además, se incluye la opción de copiar los turnos de semanas anteriores, lo que facilita el trabajo y lo hace más eficiente y automatizado.
 
-Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empleados. A través de ella, pueden consultar su horario personal, ver los huecos disponibles en los turnos de trabajo y solicitar cubrir alguno de estos huecos si lo desean. Además, los empleados tienen la posibilidad de solicitar días libres por motivos personales, enfermedad o vacaciones. Esta sección facilita la organización de los turnos y mejora la coordinación entre todos los miembros del equipo.
+Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empleados. A través de esta sección, los empleados pueden consultar su horario personal, ver los turnos abiertos y aceptarlos si lo desean. También tienen la posibilidad de solicitar días libres por motivos personales, enfermedad o vacaciones. Esta sección mejora la organización de los turnos y fomenta una mejor coordinación entre los miembros del equipo. Asimismo, ofrece una visualización en formato de calendario con vistas diaria, semanal y mensual.
+
+Finalmente, en el apartado de **'Informes'** se pueden consultar las horas asignadas totales de todos los empleados, los días trabajados y el coste de las horas laboradas. Además, es posible generar informes detallados sobre las horas totales trabajadas y enviarlos a la gestoría, por ejemplo, para la elaboración de las nóminas.
 
 <div style="text-align: center; margin: 20px;">
   <img src="img/mapas_gestion.png" alt="Mapa" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
@@ -52,10 +55,12 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px; text-align: justify;">
-      El wireframe del tab <strong>'Planificación'</strong> en la sección de <strong>'Empleados'</strong> está diseñado específicamente para los gerentes. Este <strong>mockup</strong> ilustra cómo se verá la página. En él, se presenta un calendario que muestra todos los horarios, permitiendo visualizar los turnos por empleado individualmente o superpuestos, para una visión general de todos los horarios. Desde esta página, también será posible generar informes detallados sobre las horas trabajadas por cada empleado, facilitando la gestión y el seguimiento de la planificación laboral.
+      El wireframe del tab <strong>'Planificación'</strong> en la sección de <strong>'Turnos'</strong> está diseñado específicamente para los gerentes. Este <strong>mockup</strong> ilustra cómo se verá la página, mostrando un calendario que permite visualizar los turnos organizados por empleados, puestos o ubicaciones.
+
+      Desde esta página, será posible crear nuevos turnos y gestionar las solicitudes de días libres de los empleados a cargo. Además, para facilitar y agilizar el proceso, se incluirá la opción de copiar los turnos de la semana anterior, optimizando así el tiempo de planificación.
   </div>
   <div style="flex: 0 0 55%; text-align: center;">
-    <img src="img/wireframe_plan_turnos.png" alt="Wireframe planificación" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+    <img src="img/wireframe_plan_turnos.png" alt="Wireframe planificación / turnos" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
   </div>
 </div>
 
@@ -63,20 +68,24 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 #### Wireframe 02
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
 <div style="flex: 1; margin-right: 20px; text-align: justify;">
-    El wireframe del tab <strong>'Planificación'</strong> en la sección de <strong>'Empleados'</strong> incluye la función <strong>'Añadir Empleado'</strong>. Este <strong>mockup</strong> muestra cómo se vería la página emergente que permite registrar un nuevo empleado. En ella, se solicitan diversos datos para dar de alta al empleado, tales como su nombre, dirección y cuenta bancaria, entre otros, asegurando que toda la información necesaria esté disponible para completar el proceso de registro.
+    El wireframe de la pestaña <strong>'Planificación'</strong>, en la sección de <strong>'Turnos'</strong>, incluye la función <strong>'Crear turno'</strong>. Este <strong>mockup</strong> ilustra cómo se vería la ventana emergente que permite crear un nuevo turno. En esta página, se solicitarán diversos datos necesarios, como el puesto, el empleado, la ubicación y la fecha del turno. Aqui, útilizaremos la base de datos del modulo de 'Empleados' para poder tener disponible los empleados.
+
+    Además, se incluirá la opción de guardar el turno como plantilla para futuras planificaciones o configurarlo para que se repita tantas veces como sea necesario, optimizando así la gestión de los turnos.
   </div>
   <div style="flex: 0 0 55%; text-align: center;">
-    <img src="img/crearwireframe_plan_turnos.png" alt="Wireframe añadir empleado" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+    <img src="img/crearwireframe_plan_turnos.png" alt="Wireframe crear turno" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
   </div>
 </div>
 
 #### Wireframe 03
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px; text-align: justify;">
-      El wireframe del tab <strong>'Planificación'</strong> en la sección de <strong>'Turnos'</strong> está diseñada para el uso del gerente, quien podrá visualizar los turnos organizados de forma estructurada, como en un calendario, diferenciados por tipos. Desde esta pestaña, el gerente también tendrá la posibilidad de crear nuevos turnos fácilmente. Además, podrá gestionar solicitudes de días u horas libres, revisarlas y aprobarlas de manera eficiente.
+      El wireframe de la pestaña <strong>'Planificación'</strong>, en la sección de <strong>'Puestos'</strong>, está diseñado para añadir nuevos puestos y asignarles un color, lo que facilitará su reconocimiento en la visualización del calendario.
+
+      Esta vista también permite consultar los empleados asignados a cada puesto, información que proviene de las asignaciones realizadas previamente durante la creación de turnos.
   </div>
   <div style="flex: 0 0 55%; text-align: center;">
-    <img src="img/wireframe_plan_puesto.png" alt="Wireframe planificación" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+    <img src="img/wireframe_plan_puesto.png" alt="Wireframe planificación / puestos" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
   </div>
 </div>
 
@@ -84,10 +93,12 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 #### Wireframe 04
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px; text-align: justify;">
-      El wireframe del tab <strong>'Planificación'</strong> en la sección de <strong>'Turnos'</strong> incluye la funcionalidad <strong>'Crear turno'</strong>, que muestra cómo se pueden configurar nuevos turnos de manera sencilla y eficiente. Desde esta vista, es posible asignar el turno a un trabajador, definir la hora de inicio y finalización, así como vincularlo a un puesto de trabajo específico. Además, la interfaz permite guardar el turno, publicarlo y enviarlo al trabajador correspondiente, optimizando la comunicación y la gestión de horarios laborales.
+      El wireframe de la pestaña <strong>'Mi Horario'</strong> está diseñado para proporcionar a los empleados una visión clara y organizada de sus turnos. En esta sección, el empleado puede visualizar su horario en un calendario interactivo, solicitar días libres (y, a su vez, consultar cuántos días disponibles le quedan), así como ver los turnos abiertos que puede aceptar y añadir a su planificación personal.
+
+      Al igual que en los otros calendarios, se ofrece la opción de visualizar el horario en vistas de día, semana o mes, facilitando una gestión más eficiente de los turnos.
   </div>
   <div style="flex: 0 0 55%; text-align: center;">
-    <img src="img/wireframe_mi_horario.png" alt="Wireframe crear turno" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+    <img src="img/wireframe_mi_horario.png" alt="Wireframe mi horario" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
   </div>
 </div>
 
@@ -95,10 +106,12 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 #### Wireframe 05
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px; text-align: justify;">
-      El wireframe del tab <strong>'Mi Horario'</strong> está diseñado para ofrecer a los empleados una visión clara y organizada de sus turnos. En esta sección, el empleado puede visualizar su horario en un calendario interactivo, gestionar su disponibilidad para posibles ampliaciones de horas de trabajo, y configurar sus preferencias de alertas. Además, esta pestaña permite realizar solicitudes de días libres o revisar aquellas que ya han sido aprobadas, facilitando así la gestión personal de su tiempo laboral.
+      El wireframe de la pestaña <strong>'Informes'</strong> está diseñado para proporcionar una visión detallada de las horas totales trabajadas en toda la empresa, así como del coste asociado a esas horas. Esta información se puede visualizar por mes o incluso por semana, ofreciendo flexibilidad en el análisis.
+
+      A partir de estos datos, será posible generar informes que posteriormente podrán ser utilizados para la elaboración de las nóminas de los empleados, facilitando así la gestión administrativa.
   </div>
   <div style="flex: 0 0 55%; text-align: center;">
-    <img src="img/wireframe_informes.png" alt="Wireframe mi horario" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+    <img src="img/wireframe_informes.png" alt="Wireframe informes" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
   </div>
 </div>
 
@@ -106,15 +119,16 @@ Por otro lado, **'Mi Horario'** es una herramienta accesible para todos los empl
 
 ### 🔄 DIAGRAMAS DE FLUJO
 
-Diagrama de flujo de las distintas partes del módulo. Este diagrama muestra las diversas funcionalidades del módulo, comenzando con la sección de **Planificación**, donde se incluyen acciones como: agregar empleados, crear turnos (ya sea manualmente o de forma automática), y generar informes. En la sección de **Mi Horario**, se representa el flujo de funcionalidades relacionadas, tales como: solicitar días libres, aprobar o rechazar solicitudes, y recibir dichas peticiones.
+El diagrama de flujo ilustra las distintas partes del módulo. En primer lugar, se presenta el flujo correspondiente a los gerentes (**'Planificación' e 'Informes'**). Desde la sección de 'Planificación', los gerentes pueden crear turnos o puestos y añadirlos manualmente a la planificación, o bien copiarlos de semanas anteriores. Estas acciones actualizan automáticamente la planificación general. Desde la sección de 'Informes', los gerentes pueden generar reportes de las horas trabajadas y enviarlos para su posterior uso, como en la elaboración de nóminas.
 
 <div style="text-align: center; margin: 20px;">
-  <img src="img/2flux.gestion1.png" alt="Flowchart planificación" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+  <img src="img/2flux.gestion1.png" alt="Flowchart planificación" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 </div>
 
+Por otro lado, el flujo de la pestaña **'Mi Horario'** muestra cómo se conecta con la planificación de los gerentes. En esta sección, los empleados pueden solicitar días libres, mientras que los gerentes tienen la capacidad de aceptar o rechazar dichas solicitudes. Además, los empleados pueden visualizar los turnos abiertos y aceptarlos para incorporarlos a su planificación personal.
 
 <div style="text-align: center; margin: 20px;">
-  <img src="img/flux.gestion1.png" alt="Flowchart planificación" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
+  <img src="img/flux.gestion1.png" alt="Flowchart planificación" style="width: 70%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
 </div>
 
 --- 
@@ -123,7 +137,9 @@ Diagrama de flujo de las distintas partes del módulo. Este diagrama muestra las
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px; text-align: justify;">
-      En este esquema relacional se muestra cómo se vinculan las nuevas tablas de la base de datos del módulo. Se puede observar que existen cinco tablas que interactúan entre sí según las acciones realizadas dentro del módulo, reflejando cómo los datos se conectan y se actualizan en función de las interacciones del usuario.
+      Este esquema relacional muestra cómo se vinculan las nuevas tablas de la base de datos del módulo. En él se pueden identificar cinco tablas que interactúan entre sí, dependiendo de las acciones realizadas dentro del módulo.
+
+      Como se mencionó anteriormente, será necesario enlazar el módulo de 'Empleados' para poder utilizar sus tablas en la creación de turnos y puestos de trabajo, garantizando así una integración completa.
   </div>
   <div style="flex: 0 0 55%; text-align: center;">
     <img src="img/data_base_gestión.png" alt="Esquema de la base de datos" style="width: 100%; height: auto; border: 2px solid #ccc; border-radius: 5px;">
