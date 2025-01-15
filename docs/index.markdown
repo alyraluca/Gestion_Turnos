@@ -151,3 +151,7 @@ Diagrama de flujo de las distintas partes del módulo. Este diagrama muestra las
   - **‘Mi Horario’**: acceso de **lectura y escritura**, lo que les permite consultar su horario, solicitar días libres o ampliar su horario de trabajo, pero sin poder modificar directamente los turnos asignados.  
   - **‘Planificación’**: acceso de **lectura** únicamente, permitiéndoles visualizar los turnos sin capacidad para editarlos.
 
+---
+
+#### Enlace repositorio
+[github.com/alyraluca/Gestion_Turnos](https://github.com/alyraluca/Gestion_Turnos)
